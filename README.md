@@ -1,5 +1,7 @@
 # Recent-Learning-
 Recent Learning 
+- [ <b>AZ-104 Microsoft Azure Administrator </b>] 15 hours training  
+![image](https://github.com/Shifat-udn/Recent-Learning-/blob/137f63b07ecce544de7528e914d0a92957bf0b70/UC-99ed2585-430f-41e4-aea9-945c16fdded8.pdf)
 - [ <b>CompTIA Security+ </b>] 24 hours training  
 ![image](https://github.com/Shifat-udn/Recent-Learning-/assets/141313925/f0b41d1d-d68e-4105-b9fd-192612e68494)
 - [ <b>CCNP, CCIE Enterprise: ENCOR 350-401 </b>] 65 hours training 
